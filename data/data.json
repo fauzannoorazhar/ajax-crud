@@ -1,0 +1,34 @@
+[
+	{
+		"name": "muhammad",
+		"inoffice": true
+	},
+	{
+		"name": "fauzan",
+		"inoffice": false
+	},
+	{
+		"name": "noor",
+		"inoffice": true
+	},
+	{
+		"name": "azhar",
+		"inoffice": false
+	},
+	{
+		"name": "arman",
+		"inoffice": true
+	},
+	{
+		"name": "iqbal",
+		"inoffice": false
+	},
+	{
+		"name": "indra",
+		"inoffice": true
+	},
+	{
+		"name": "dadan",
+		"inoffice": false
+	}
+]
